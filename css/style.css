@@ -474,7 +474,6 @@ body {
 }
 .categories__item:hover {
   box-shadow: 2.828px 2.828px 20px 0px rgba(50, 50, 50, 0.25);
-  display: block;
 }
 .categories__item:hover .categories__item-title {
   color: #1c62cd;
